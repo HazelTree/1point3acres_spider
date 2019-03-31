@@ -8,5 +8,5 @@
 
 简单处理后得到：
 
-![屏幕快照 2019-03-30 下午9.13.09](/Users/zhouchenhao_819/Desktop/屏幕快照 2019-03-30 下午9.13.09.png)
+i[image](<https://github.com/HazelTree/1point3acres_spider/blob/master/images/cs%20ms%20%40usc.png>)
 
