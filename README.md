@@ -8,5 +8,5 @@
 
 简单处理后得到：
 
-i[image](<https://github.com/HazelTree/1point3acres_spider/blob/master/images/cs%20ms%20%40usc.png>)
+![image](https://github.com/HazelTree/1point3acres_spider/images/cs ms@usc.png)
 
